@@ -28,26 +28,25 @@ body {
 
 }
 .brilho {
-   color: deeppink;
+   color: rgb(0, 255, 55);
     font-style: italic
 }
 .lista {
         display: inline-block;
         padding: 5%;
         margin-right: 10%;
-        color: fuchsia;
+        color: rgb(68, 139, 98);
         padding: 5%;
-        border-color: pink;
+        border-color: rgb(5, 5, 5);
         border-width: 20px;
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
     }
 
-nav a{
+nav a  {
     text-transform: uppercase;
     text-align: center;
     color: darkorchid;
     font-weight: 300;
     font-size: 100%;
-    text-decoration: none ;
-}
+    text-decoration: none }

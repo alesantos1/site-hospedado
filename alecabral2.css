@@ -1,18 +1,18 @@
 h1 {
-    color: hotpink;
+    color: greenyellow;
 }
 h2{
-    color: hotpink;
+    color: greenyellow;
 }
 h3{
-    color: hotpink;
+    color: greenyellow;
 }
 h4 {
-    color: hotpink;
+    color: greenyellow;
 }
 
 body {
-    background-color: lavender;
+    background-color: green;
 
     text-align: center;
 }
@@ -28,26 +28,26 @@ body {
 
 }
 .brilho {
-   color: deeppink;
+   color: greenyellow;
     font-style: italic
 }
 .lista {
         display: inline-block;
         padding: 5%;
         margin-right: 10%;
-        color: fuchsia;
+        color: greenyellow;
         padding: 5%;
-        border-color: pink;
+        border-color: green;
         border-width: 20px;
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
     }
 
 nav a{
-    text-transform: uppercase;
-    text-align: center;
-    color: darkorchid;
-    font-weight: 300;
-    font-size: 100%;
     text-decoration: none ;
 }
+    text-transform: uppercase;
+    text-align: center;
+    color: greenyellow;
+    font-weight: 300;
+    font-size: 100%;

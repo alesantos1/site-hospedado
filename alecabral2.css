@@ -1,18 +1,18 @@
 h1 {
-    color: greenyellow;
+    color: green;
 }
 h2{
-    color: greenyellow;
+    color: green;
 }
 h3{
-    color: greenyellow;
+    color: green;
 }
 h4 {
-    color: greenyellow;
+    color: green;
 }
 
 body {
-    background-color: green;
+    background-color: greenyellow;
 
     text-align: center;
 }
@@ -28,7 +28,7 @@ body {
 
 }
 .brilho {
-   color: greenyellow;
+   color: green;
     font-style: italic
 }
 .lista {

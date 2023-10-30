@@ -45,9 +45,10 @@ body {
 
 nav a{
     text-decoration: none ;
-}
+
     text-transform: uppercase;
     text-align: center;
     color: greenyellow;
     font-weight: 300;
     font-size: 100%;
+}
